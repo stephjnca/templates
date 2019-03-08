@@ -1,4 +1,4 @@
-# *API_name*
+# API_name
 
   <_Give a brief, preferably one-line, description of your API call. Try to use verbs that match both request type (get vs delete) and plurality (one vs multiple)._>
 

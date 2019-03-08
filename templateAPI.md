@@ -1,4 +1,4 @@
-# *Method_name*
+# Method_name
 
   <_Give brief description of what the method does._>
   
