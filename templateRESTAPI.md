@@ -46,7 +46,7 @@
   * **Code:** 422 UNPROCESSABLE ENTRY <br />
     **Content:** `{ error : "Email Invalid" }`
 
-## <_Any notes_> 
+## <_Any additional notes_>
 
   <_This is where all uncertainties, commentary, etc. can go. Use appropriate heading(s)._> 
   
